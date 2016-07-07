@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">James\' Apps</string>
+    <string name="titleMain">My Nanodegree Apps!</string>
+    <string name="popularMovies">Popular Movies</string>
+    <string name="capstone">Capstone</string>
+    <string name="stockHawk">Stock Hawk</string>
+    <string name="buildItBigger">Build it Bigger</string>
+    <string name="makeYourAppMaterial">Make Your App Material</string>
+    <string name="goUbiquitous">Go Ubiquitous</string>
+    <string name="captone">Capstone</string>
+</resources>
